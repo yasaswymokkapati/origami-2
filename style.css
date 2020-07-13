@@ -1,0 +1,14 @@
+.header{
+    background-image: url("bg1.jpg");
+}
+
+.menu{
+    display : flex;
+    justify-content: space-evenly;
+    padding : 15px;
+}
+body{
+    margin : 10px;
+    background-color : #ffffff;
+    border : 2px solid #ff00ff;
+}
